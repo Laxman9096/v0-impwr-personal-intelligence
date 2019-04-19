@@ -1,5 +1,5 @@
 # Crazy Banner
-#Script by Sutariya Parixit
+#Script by Lucky83
 
 Installation Step :
 
