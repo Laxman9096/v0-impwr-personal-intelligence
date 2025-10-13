@@ -1,4 +1,5 @@
-# IMPWR - Empowered by You 
+# IMPWR - Your Operating System for a Better You
+
 ![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-alpha-orange.svg)
 
